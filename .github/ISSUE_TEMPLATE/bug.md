@@ -1,4 +1,9 @@
-# Summary #
+---
+name: 🐛 Bug report
+about: Describe a bug, error, unexpected behavior, or other problem
+---
+
+# Summary 🐛 #
 
 <!-- Summarize the issue in 1-3 sentences -->
 <!-- User should be able to do X but when user clicks on A its doing Z. -->
@@ -25,4 +30,5 @@
 
 <!-- Include any information that might help explain the what or the why -->
 <!-- Screenshots of the issue are extremely helpful! -->
+<!-- Include any helpful log output in a code block (```) -->
 

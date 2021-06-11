@@ -1,3 +1,8 @@
+---
+name: 💡 Issue
+about: Describe an idea, todo, feature, task, improvement, or user story
+---
+
 # User Story #
 
 As a <user type>, I want <a goal> so that <benefit>.
