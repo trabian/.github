@@ -1,6 +1,6 @@
 ---
 name: Epic
-about: A large set of requirements or product feature set. Typically outlined as the onset of a project roadmap. Epics get broken into User Stories that are all working towards the common goal outlined in the Epic.
+about: A large set of requirements or product feature set. 
 ---
 
 **Background**
