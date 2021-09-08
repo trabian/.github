@@ -1,20 +1,27 @@
 ---
-name: 💡 Issue
+name: User Story
 about: Describe an idea, todo, feature, task, improvement, or user story
 ---
 
-# User Story #
+**User Story**
 
 As a <user type>, I want <a goal> so that <benefit>.
 
-## Acceptance Requirements ##
+**Acceptance Criteria**
 
 <!-- Elements that must be completed in order to satisfy the User Story. -->
 <!-- Use checkboxes so we can know when all criteria have been completed -->
 
-- [ ] Criteria
+- [ ] ...
+- [ ] ...
+  
+**Definition of Done**
+ 
+- [ ] Outcome 1
+- [ ] Outcome 2
 
-## Support Materials ##
+
+**Support Materials**
 
 <!-- Screenshots and links to related issues or Slack conversations, etc. -->
 
